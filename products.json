@@ -1,0 +1,14 @@
+[
+  {
+    "image": "product1.jpg",
+    "desc": "这是第一个商品的说明",
+    "price": "￥100",
+    "note": "热销"
+  },
+  {
+    "image": "product2.jpg",
+    "desc": "这是第二个商品的说明",
+    "price": "￥200",
+    "note": "限量"
+  }
+]
