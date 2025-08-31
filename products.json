@@ -1,5 +1,11 @@
 [
   {
+    "image": "product-b.jpg",
+    "desc": "LG 24mb35ph-b 24吋显示器",
+    "price": "€40",
+    "note": ""
+  },
+  {
     "image": "product1.jpg",
     "desc": "夏普800W微波炉",
     "price": "€35",
@@ -12,74 +18,80 @@
     "note": ""
   },
   {
-    "image": "product2.jpg",
+    "image": "product3.jpg",
     "desc": "米家热水壶",
     "price": "€5",
     "note": ""
   },
   {
-    "image": "product2.jpg",
+    "image": "product4.jpg",
     "desc": "Casio FX-85GTX",
     "price": "€10",
     "note": "包含在工大计算器白名单"
   },
   {
-    "image": "product2.jpg",
+    "image": "product5.jpg",
     "desc": "USB+3.5接口小音箱",
     "price": "€5",
     "note": "包含在工大计算器白名单"
   },
   {
-    "image": "product2.jpg",
+    "image": "product6.jpg",
     "desc": "台式风扇",
     "price": "€15",
     "note": "包含在工大计算器白名单"
   },
   {
-    "image": "product2.jpg",
+    "image": "product7.jpg",
     "desc": "立式风扇",
     "price": "€0",
     "note": "需自己上油"
   },
   {
-    "image": "product2.jpg",
+    "image": "product8.jpg",
     "desc": "Canon PIXMA TS5151 All-in-One打印机",
     "price": "€20",
     "note": ""
   },
   {
-    "image": "product2.jpg",
+    "image": "product9.jpg",
     "desc": "冷冻柜",
     "price": "€0",
     "note": "我楼道里捡回来的，所以谁要也可以免费拿走。还在用，预计最晚9月20日可取走"
   },
   {
-    "image": "product2.jpg",
+    "image": "product10.jpg",
     "desc": "Nespresso Krups Vertuo咖啡机",
     "price": "€35",
     "note": ""
   },
   {
-    "image": "product2.jpg",
+    "image": "product11.jpg",
     "desc": "超声波清洗机",
     "price": "€10",
     "note": ""
   },
   {
-    "image": "product2.jpg",
+    "image": "product12.jpg",
     "desc": "升降桌",
     "price": "€50",
     "note": "桌板使用痕迹较多，可自行更换"
   },
   {
-    "image": "product2.jpg",
+    "image": "product13.jpg",
     "desc": "WMF搅拌机",
     "price": "€15",
     "note": ""
   },
   {
-    "image": "product2.jpg",
+    "image": "product14.jpg",
     "desc": "32cm WOK锅",
+    "price": "€10",
+    "note": ""
+  },
+  {
+    "image": "product15.jpg",
+    "desc": "电脑音响",
     "price": "€10",
     "note": ""
   }
