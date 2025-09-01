@@ -3,7 +3,7 @@
     "image": "product-b.jpg",
     "desc": "LG 24mb35ph-b 24吋显示器",
     "price": "€40",
-    "note": ""
+    "note": "底座可升降和旋转"
   },
   {
     "image": "product1.jpg",
@@ -33,13 +33,13 @@
     "image": "product5.jpg",
     "desc": "USB+3.5接口小音箱",
     "price": "€5",
-    "note": "包含在工大计算器白名单"
+    "note": ""
   },
   {
     "image": "product6.jpg",
     "desc": "台式风扇",
     "price": "€15",
-    "note": "包含在工大计算器白名单"
+    "note": ""
   },
   {
     "image": "product7.jpg",
