@@ -112,5 +112,11 @@
     "desc": "IKEA抽屉柜",
     "price": "€15",
     "note": ""
+  },
+  {
+    "image": "product19.jpg",
+    "desc": "IKEA书架",
+    "price": "€5",
+    "note": ""
   }
 ]
