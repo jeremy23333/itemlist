@@ -44,7 +44,7 @@
   {
     "image": "product7.jpg",
     "desc": "立式风扇",
-    "price": "€0",
+    "price": "€5",
     "note": "需自己上油"
   },
   {
@@ -93,6 +93,24 @@
     "image": "product15.jpg",
     "desc": "电脑音响",
     "price": "€10",
+    "note": ""
+  },
+  {
+    "image": "product16.jpg",
+    "desc": "IKEA衣柜",
+    "price": "€10",
+    "note": ""
+  },
+  {
+    "image": "product17.jpg",
+    "desc": "IKEA高抽屉柜",
+    "price": "€20",
+    "note": ""
+  },
+  {
+    "image": "product18.jpg",
+    "desc": "IKEA抽屉柜",
+    "price": "€15",
     "note": ""
   }
 ]
