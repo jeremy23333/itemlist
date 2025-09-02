@@ -6,12 +6,6 @@
     "note": "底座可升降和旋转"
   },
   {
-    "image": "product1.jpg",
-    "desc": "夏普800W微波炉",
-    "price": "€35",
-    "note": "Sharp Electronics R642WW Mikrowellengerät"
-  },
-  {
     "image": "product2.jpg",
     "desc": "米家电饭煲C1",
     "price": "€15",
@@ -72,16 +66,10 @@
     "note": ""
   },
   {
-    "image": "product12.jpg",
-    "desc": "升降桌",
-    "price": "€50",
-    "note": "不包含桌板，可自行搭配桌板"
-  },
-  {
     "image": "product20.jpg",
     "desc": "Ikea桌 150*75cm",
     "price": "€10",
-    "note": "桌板有不少使用痕迹，买上面那个升降桌可以免费拿走这个"
+    "note": "桌板有不少使用痕迹"
   },
   {
     "image": "product13.jpg",
